@@ -14,7 +14,7 @@
 <a href = ""> <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
  </div>
 
- ### Links dos meus projetos:
+ ### Links de alguns dos meus projetos:
 
  Flip de cartão: https://elegant-tiramisu-d6d6a7.netlify.app/
  </br>Kanban: https://moonlit-paletas-3cfd39.netlify.app/
@@ -22,7 +22,7 @@
 </br>Página de Login: https://657728559e5338007337b349--shimmering-vacherin-f8dd80.netlify.app/
 </br>Página de Clima: https://6577291a3dc55c080cbc9c2b--resplendent-pixie-97c32f.netlify.app/
 </br> Chat: https://65772a59301b680845c6b2ee--resilient-biscotti-533a2a.netlify.app/
-</br> 
+</br> Meteora/Site de moda: https://65de7ab5b818326609041362--shimmering-bienenstitch-160655.netlify.app/
 
  
 
